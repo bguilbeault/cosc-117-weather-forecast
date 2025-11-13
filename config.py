@@ -1,4 +1,4 @@
-CITY = "Chengdu"
+CITY = "West Kelowna"
 
 WEATHER_EMOJI = {
     # Clear/Sunny
